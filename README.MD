@@ -6,3 +6,4 @@ IS601 Fall
 New learning. Exciting Project.
 
 New Branch created Project_ntsh
+We are going to work from today!
